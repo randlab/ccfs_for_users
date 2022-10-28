@@ -1,3 +1,5 @@
-# ccfs_for_users
+# CCFS for users
 
-Introduction guide for users of the linux cluster galileo (ccfs)
+These pages contain some introduction guide for the users of the linux cluster galileo of CCFS (Centre de Calcul de la Faculté des Sciences) de l'Université de Neuchâtel.
+
+To access the information, go on the Wiki page of this repo.
